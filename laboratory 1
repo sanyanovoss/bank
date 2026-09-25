@@ -28,7 +28,7 @@ class Transaction:
 
 
 user1 = User("Oleksandr Novoselskiy", "2017", "4444-3333-2222-1111", 1783)
-user2 = User("Oleksandr Polygas", "2009", "1111-2222-3333-4444", 1891)
+user2 = User("Oleksandr Poligas", "2009", "1111-2222-3333-4444", 1891)
 user3 = User("Dmytro Kudravcev", "7777", "7777-7777-7777-7777", 10000000000000)
 user4 = User("Nastya Kyshniruk", "6666", "6666-6666-6666-6666", 196000000000)
 
