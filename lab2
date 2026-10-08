@@ -28,7 +28,7 @@ class Transaction:
 
 
 user1 = User("Oleksandr Novoselskiy", "4321", "4444-3333-2222-1111", 1783)
-user2 = User("Oleksandr Polygas", "1234", "1111-2222-3333-4444", 1891)
+user2 = User("Oleksandr Poligas", "1234", "1111-2222-3333-4444", 1891)
 user3 = User("Dmytro Kudravcev", "7777", "7777-7777-7777-7777", 10000000000000)
 
 usersbank.append(user1)
